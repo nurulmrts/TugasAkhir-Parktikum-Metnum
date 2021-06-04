@@ -108,9 +108,20 @@ Tahapan pertama dengan memasukkan kode penggunaan modul, lalu masukkan kode peng
 4. Metode Iterasi, dengan memasukkan nilai pertama untuk perkiraan kondisi awal pada kolom input
 5. Metode Secant,dengan memasukkan nilai pertama untuk perkiraan kondisi awal pada kolom input
 ### * Modul 3 (Sistem Persamaan Linier dan Matriks)
-1. Metode Gauss-Seidel
+Matriks 1 = [2, 4, 6, 8],[1, 4, 3, 4],[3, 9, 1, 2],[2, 9, 1, 3]
+Matriks 2 = [24.097, 4.097, 0.4303, 0.5256]
+
+1. Metode Gauss-Seidel, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan mmemasukkan matriks 2 pada inputan nilai hasil dari SPL  
+2. Metode Gauss-Jordan, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan mmemasukkan matriks 2 pada inputan nilai hasil dari SPL
+3. Metode Gauss, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan mmemasukkan matriks 2 pada inputan nilai hasil dari SPL
+4. Metode Jacobi, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan mmemasukkan matriks 2 pada inputan nilai hasil dari SPL
+
 ### * Modul 4 (Integrasi Numerik)
-1.
+1. Metode Satu Pias
+2. Metode Banyak Pias
+3. Metode Simpson 1/3 
+4. Metode Simpson 3/8
+
 ### * Modul 5 (Persamaan Persamaan Differensial Biasa) 
 1. Metode Euler, dengan memasukkan nama, nim, kelas, nilai H (banyak langkah yang digunakan), x0 (nilai x awal atau perkiraan kondisi awal), xn (sebagai nilai x akhir), y0 (sebagai kondisi awal untuk nilai y awal)
 2. Metode Heun, dengan memasukkan nama, nim, kelas, nilai H (banyak langkah yang digunakan), x0 (nilai x awal atau perkiraan kondisi awal), xn (sebagai nilai x akhir), y0 (sebagai kondisi awal untuk nilai y awal)
