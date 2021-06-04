@@ -89,6 +89,31 @@ Metode Euler adalah salah satu dari metode satu langkah yang paling sederhana. D
 ### * Metode Heun
 Metode Heun adalah salah satu metode numerik yang dapat digunakan untuk menyelesaikan berbagai persoalan matematika yang mempunyai masalah nilai awal. Masalah nilai awal merupakan masalah penyelesaian suatu persamaan diferensial dengan syarat awal yang telah diketahui.
 
+## PLATFORM
+Jadi pada modul 2 hingga modul 5 untuk berbagai metode penyelesaian numerik menggunakan bahasa phyton. Sedangkan, library yang digunakan adalah sebagai berikut:
+1. sys
+2. numpy 
+3. matplotlib.pyplot
+4. math
+5. IPython
+6. pprint
+7. scipy.linalg
+
+##CARA PENGGUNAAN
+Tahapan pertama dengan memasukkan kode penggunaan modul, lalu masukkan kode penggunaan metode yang ada pada modul. 
+### * Modul 2 (Akar-akar Persamaan )
+1. Metode Setengah Interval, dengan memasukkan nilai perkiraan untuk kondisi awal yaitu nilai pertama dan akhir yaitu nilai kedua pada kolom input
+2. Metode Interpolasi Linier, dengan memasukkan nilai pertama untuk kondisi awal pada kolom input
+3. Metode Newton-Rhapson, dengan memasukkan nilai pertama untuk perkiraan kondisi awal pada kolom input
+4. Metode Iterasi, dengan memasukkan nilai pertama untuk perkiraan kondisi awal pada kolom input
+5. Metode Secant,dengan memasukkan nilai pertama untuk perkiraan kondisi awal pada kolom input
+### * Modul 3 (Sistem Persamaan Linier dan Matriks)
+1. Metode Gauss-Seidel
+### * Modul 4 (Integrasi Numerik)
+1.
+### * Modul 5 (Persamaan Persamaan Differensial Biasa) 
+1. Metode Euler, dengan memasukkan nama, nim, kelas, nilai H (banyak langkah yang digunakan), x0 (nilai x awal atau perkiraan kondisi awal), xn (sebagai nilai x akhir), y0 (sebagai kondisi awal untuk nilai y awal)
+2. Metode Heun, dengan memasukkan nama, nim, kelas, nilai H (banyak langkah yang digunakan), x0 (nilai x awal atau perkiraan kondisi awal), xn (sebagai nilai x akhir), y0 (sebagai kondisi awal untuk nilai y awal)
 
 ## SARAN UNTUK PENGEMBANGAN
 Sebagai praktikan mata kuliah Metode Numerik yang telah melaksanakan kegiatan praktikum modul 1 hingga modul 5 dan untuk saat ini masuk ke dalam tugas akhir, terdapat beberapa saran yaitu:
