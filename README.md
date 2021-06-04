@@ -95,7 +95,7 @@ Pada umumnya, persamaan disebut sebagai persamaan diferensial jika di dalam pers
 SARAN UNTUK PENGEMBANGAN
 
 Sebagai praktikan mata kuliah Metode Numerik yang telah melaksanakan kegiatan praktikum modul 1 hingga modul 5 dan untuk saat ini masuk ke dalam tugas akhir, terdapat beberapa saran yaitu:
-1. Kegiatan perkulaiahan kedepannya agar dapat berjalan secara offline, sehingga disaat praktikan bingung dapat lebih mudah dalam sesi tanya-jawab dan antara asisten dan
+1. Kegiatan perkuliahan kedepannya agar dapat berjalan secara offline, sehingga disaat praktikan bingung dapat lebih mudah dalam sesi tanya-jawab dan antara asisten dan
 praktikan dapat lebih terkoordinir. Namun, kondisi ini dapat menyesuaikan karena dapat dimaklumi
 2. Pengenalan fungsi logika phyton lebih ditekankan karena ini sebagai dasar saat masuk ke modul-modul praktikum, sehingga praktikan dapat lebih mengerti
 3. Script code tiap line untuk modul praktikum dapat lebih dijelaskan kegunaannya dan dijelaskan juga bentuk script code lain apabila ingin melakukan modifikasi pengerjaan
