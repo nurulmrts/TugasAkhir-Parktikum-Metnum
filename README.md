@@ -93,7 +93,7 @@ Metode Heun adalah salah satu metode numerik yang dapat digunakan untuk menyeles
 
 ## _Platform_
 Jadi pada modul 2 hingga modul 5 untuk berbagai metode penyelesaian numerik menggunakan bahasa phyton. Sedangkan, library yang digunakan adalah sebagai berikut:
-1. sys
+1. [Sys](https://www.tutorialsteacher.com/python/sys-module)
 2. numpy 
 3. matplotlib.pyplot
 4. math
