@@ -110,6 +110,7 @@ Tahapan pertama dengan memasukkan kode penggunaan modul, lalu masukkan kode peng
 
 ### * Modul 3 (Sistem Persamaan Linier dan Matriks)
 Matriks 1 = [2, 4, 6, 8],[1, 4, 3, 4],[3, 9, 1, 2],[2, 9, 1, 3]
+
 Matriks 2 = [24.097, 4.097, 0.4303, 0.5256]
 
 1. Metode Gauss-Seidel, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan memasukkan matriks 2 pada inputan nilai hasil dari SPL  
