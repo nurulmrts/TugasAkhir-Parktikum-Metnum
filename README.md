@@ -1,14 +1,17 @@
 # TugasAkhir-Parktikum-Metnum
 Nama Anggota Kelompok 5: 
-1. Muhammad Athala Haykal	26050119130123
-2. Ebenezer M.D			26050119130119
-3. Farhan Satria		26050119130109
-4. Kurnia Fajar Hidayat		26050119130104
-5. Achmad Agung B		26050119130103
-6. Syifa Saidatul Hasanah	26050119130101
-7. Rina Hazrina Nusratina	26050119130098
-8. Nurul Maratus Sholihah	26050118120035
-9. Fressan Patrick		26050119130097
+Nama | Nim
+------------ | -------------
+Muhammad Athala Haykal | 26050119130123
+Ebenezer M.D | 26050119130119
+Farhan Satria | 26050119130109
+Kurnia Fajar Hidayat | 26050119130104
+Achmad Agung B | 26050119130103
+Syifa Saidatul Hasanah | 26050119130101
+Rina Hazrina Nusratina | 26050119130098
+Nurul Maratus Sholihah | 26050118120035
+Fressan Patrick | 26050119130097
+	
 10. Muhammad Nur Alfajrin	26050119130096
 11. Rayen Hanjaya 		26050119130094
 12. Afisha Tiara Arbain		26050119130091
