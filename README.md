@@ -97,7 +97,7 @@ Jadi pada modul 2 hingga modul 5 untuk berbagai metode penyelesaian numerik meng
 2. [numpy](https://numpy.org/) 
 3. [matplotlib.pyplot](https://matplotlib.org/2.0.2/users/pyplot_tutorial.html)
 4. [math](https://docs.python.org/3/library/math.html)
-5. [IPython]
+5. [IPython](https://pypi.org/project/ipython/)
 6. [pprint](https://docs.python.org/3/library/pprint.html)
 7. [scipy.linalg](https://docs.scipy.org/doc/scipy/reference/linalg.html#module-scipy.linalg)
 
