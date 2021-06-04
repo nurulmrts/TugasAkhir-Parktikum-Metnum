@@ -99,7 +99,7 @@ Jadi pada modul 2 hingga modul 5 untuk berbagai metode penyelesaian numerik meng
 6. pprint
 7. scipy.linalg
 
-##CARA PENGGUNAAN
+## CARA PENGGUNAAN
 Tahapan pertama dengan memasukkan kode penggunaan modul, lalu masukkan kode penggunaan metode yang ada pada modul. 
 ### * Modul 2 (Akar-akar Persamaan )
 1. Metode Setengah Interval, dengan memasukkan nilai perkiraan untuk kondisi awal yaitu nilai pertama dan akhir yaitu nilai kedua pada kolom input
