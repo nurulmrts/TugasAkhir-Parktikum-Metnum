@@ -14,7 +14,7 @@ Nama Anggota Kelompok 5:
 12. Afisha Tiara Arbain		26050119130091
 
 # Panduan dan Penjelasan Terkait Program Penyelesaian Masalah Metode Numerik
-Berikut ini adalah beberapa permasalahan dalam metode numerik yang dapat diselesaikan menggunakan program tersebut, antara lain :
+Di bawah ini adalah permasalahan metode numerik yang dapat diselesaikan menggunakan program tersebut, antara lain :
 1. Akar-akar persamaan.
 2. Sistem persamaan linier dan matriks.
 3. Integrasi numerik
@@ -107,20 +107,21 @@ Tahapan pertama dengan memasukkan kode penggunaan modul, lalu masukkan kode peng
 3. Metode Newton-Rhapson, dengan memasukkan nilai pertama untuk perkiraan kondisi awal pada kolom input
 4. Metode Iterasi, dengan memasukkan nilai pertama untuk perkiraan kondisi awal pada kolom input
 5. Metode Secant,dengan memasukkan nilai pertama untuk perkiraan kondisi awal pada kolom input
+
 ### * Modul 3 (Sistem Persamaan Linier dan Matriks)
 Matriks 1 = [2, 4, 6, 8],[1, 4, 3, 4],[3, 9, 1, 2],[2, 9, 1, 3]
 Matriks 2 = [24.097, 4.097, 0.4303, 0.5256]
 
-1. Metode Gauss-Seidel, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan mmemasukkan matriks 2 pada inputan nilai hasil dari SPL  
-2. Metode Gauss-Jordan, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan mmemasukkan matriks 2 pada inputan nilai hasil dari SPL
-3. Metode Gauss, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan mmemasukkan matriks 2 pada inputan nilai hasil dari SPL
-4. Metode Jacobi, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan mmemasukkan matriks 2 pada inputan nilai hasil dari SPL
+1. Metode Gauss-Seidel, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan memasukkan matriks 2 pada inputan nilai hasil dari SPL  
+2. Metode Gauss-Jordan, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan memasukkan matriks 2 pada inputan nilai hasil dari SPL
+3. Metode Gauss, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan memasukkan matriks 2 pada inputan nilai hasil dari SPL
+4. Metode Jacobi, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan memasukkan matriks 2 pada inputan nilai hasil dari SPL
 
 ### * Modul 4 (Integrasi Numerik)
-1. Metode Satu Pias
-2. Metode Banyak Pias
-3. Metode Simpson 1/3 
-4. Metode Simpson 3/8
+1. Metode Trapesium Satu Pias, dengan memasukkan persamaan 3 * (x**3) + 3 * (x**2) pada inputan persamaan untuk trapesium 1 pias, lalu 3 * x1**3 untuk inputan batas atas (x1) dan 3 * x2**2 untuk inputan batas bawah (x2)   
+2. Metode Trapesium Banyak Pias, dengan memasukkan persamaan  lambda x: 3 * (x**3) + 3 * (x**2) dan masukkan nilai jumlah pias sesuai perhitungan
+3. Metode Simpson 1/3, dengan memasukkan persamaan  lambda x: 3 * (x**3) + 3 * (x**2) dan masukkan batas bawah (x1) dengan angka 0, lalu batas atas masukkan dengan angka 10
+4. Metode Simpson 3/8, dengan memasukkan persamaan  lambda x: 3 * (x**3) + 3 * (x**2) dan masukkan batas bawah (x1) dengan angka 0, lalu batas atas masukkan dengan angka 10
 
 ### * Modul 5 (Persamaan Persamaan Differensial Biasa) 
 1. Metode Euler, dengan memasukkan nama, nim, kelas, nilai H (banyak langkah yang digunakan), x0 (nilai x awal atau perkiraan kondisi awal), xn (sebagai nilai x akhir), y0 (sebagai kondisi awal untuk nilai y awal)
@@ -138,4 +139,4 @@ praktikan dapat lebih terkoordinir. Namun, kondisi ini dapat menyesuaikan karena
 Demikian dari Tugas Akhir Metode Numerik dari kami. Kami dari kelompok 11 mengucapkan permintaan maaf apabila terdapat kesalahan di dalam tugas akhir ini. Kami juga mengucapkan terima kasih kepada :
 1. Seluruh Dosen Pengampu mata kuliah Metode Numerik
 2. Tim asisten praktikum metode numerik 2021 yang telah mendampingi selama berjalannya praktikum hingga tugas akhir
-3. Seluruh teman-teman yang membantu dan mendukung dalam penyusunan repositori ini
+3. Seluruh teman-teman yang membantu dan mendukung dalam penyusunan repository ini
