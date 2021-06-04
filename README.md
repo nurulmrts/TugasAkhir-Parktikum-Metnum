@@ -92,7 +92,7 @@ Metode Euler adalah salah satu dari metode satu langkah yang paling sederhana. D
 Metode Heun adalah salah satu metode numerik yang dapat digunakan untuk menyelesaikan berbagai persoalan matematika yang mempunyai masalah nilai awal. Masalah nilai awal merupakan masalah penyelesaian suatu persamaan diferensial dengan syarat awal yang telah diketahui.
 
 ## _Platform_
-Jadi pada modul 2 hingga modul 5 untuk berbagai metode penyelesaian numerik menggunakan bahasa phyton. Sedangkan, library yang digunakan adalah sebagai berikut:
+Jadi pada modul 2 hingga modul 5 untuk berbagai metode penyelesaian numerik menggunakan bahasa [Phyton](https://www.python.org/). Sedangkan, library yang digunakan adalah sebagai berikut:
 1. [Sys](https://docs.python.org/3/library/sys.html)
 2. [numpy](https://numpy.org/) 
 3. [matplotlib.pyplot](https://matplotlib.org/2.0.2/users/pyplot_tutorial.html)
