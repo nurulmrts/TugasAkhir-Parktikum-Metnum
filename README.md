@@ -1,17 +1,17 @@
 # TugasAkhir-Parktikum-Metnum
 Nama Anggota Kelompok 5: 
-Muhammad Athala Haykal		26050119130123
-Ebenezer M.D			        26050119130119
-Farhan Satria			        26050119130109
-Kurnia Fajar Hidayat		  26050119130104
-Achmad Agung B			      26050119130103
-Syifa Saidatul Hasanah		26050119130101
-Rina Hazrina Nusratina		26050119130098
-Nurul Maratus Sholihah		26050118120035
-Fressan Patrick			      26050119130097
-Muhammad Nur Alfajrin		  26050119130096
-Rayen Hanjaya 			      26050119130094
-Afisha Tiara Arbain		    26050119130091
+1. Muhammad Athala Haykal	26050119130123
+2. Ebenezer M.D			26050119130119
+3. Farhan Satria		26050119130109
+4. Kurnia Fajar Hidayat		26050119130104
+5. Achmad Agung B		26050119130103
+6. Syifa Saidatul Hasanah	26050119130101
+7. Rina Hazrina Nusratina	26050119130098
+8. Nurul Maratus Sholihah	26050118120035
+9. Fressan Patrick		26050119130097
+10. Muhammad Nur Alfajrin	26050119130096
+11. Rayen Hanjaya 		26050119130094
+12. Afisha Tiara Arbain		26050119130091
 
 Ini merupakan panduan dan penjelasan terkait program penyelesaian masalah metode numerik. 
 
@@ -22,16 +22,17 @@ Di bawah ini adalah permasalahan metode numerik yang dapat diselesaikan mengguna
 4. Persamaan diferensial biasa.
 
 Selanjutnya, kita akan membahas secara sekilas terkait beberapa permasalahan metode numerik di atas. 
+
 1. Akar-Akar Persamaan.
    Dalam perhitungan numerik, persamaan polinomial sangat sulit untuk diselesaikan secara eksplisit. Dalam hal ini, metode yang digunakan untuk menyelesaikan persamaan tersebut adalah metode iterasi (pengulangan). Dengan demikian, setiap persamaan akan menghasilkan nilai yang lebih teliti dari perkiraan sebelumnya.
 Di lain pihak, nilai tolerasi kesalahan dapat dipilih sesuai keinginan. Selain itu, solusi dari metode numerik juga selalu menghasilkan angka. Ada beberapa metode untuk menyelesaikan masalah akar-akar persamaan. Contohnya, yaitu:
 
 1.1. Metode Setengah Interval.
      Pada dasarnya, metode ini merupakan metode yang sederhana di antara metode-metode lainnya. Namun, metode ini tetap banyak digunakan karena hasilnya tidak memiliki banyak error. Artinya, metode ini selalu menemukan hasil walaupun caranya penyelesaiannya sederhana. Kelebihan dari metode ini adalah selalu menemukan solusi yang dicari (konvergen). Di lain pihak, kekurangannya adalah jika ada beberapa akar pada interval yang diberikan, hanya satu akar saja yang dapat ditemukan. Selain itu, proses iterasinya cukup lama.
-     
+
 1.2. Metode Interpolasi Linier
      Metode ini dapat dikatakan mirip dengan metode setengah interval. Hal yang serupa terletak pada dua harga taksiran awal pada awal pengurungan akar persamaan. Perbedaannya terletak pada penyelesaiannya yang menggunakan interpolasi linier. Interpolasi linier dilakukan melalui dua titik pertama dengan garis interpolasi memotong sumbu x dan dititik perpotongan tersebut didapatkan pendekatan akar yang pertama.
-     
+
 1.3. Metode Newton-Rhapson
      Metode Newton-Rhapson merupakan metode yang paling sering digunakan di antara metode pencarian akar persamaan yang lain. Metode ini dapat dikatakan sederhana, tetapi handal dalam menyelesaikan masalah akar persamaan nonlinier. Kelebihan metode ini adalah nilai konvergensi yang dihasilkan cukup cepat. Namun, kekurangannya adalah tidak selalu menemukan akar (divergen), sulit dalam mencari f(xn), dan penetapan harga (xn) yang sulit.
 
