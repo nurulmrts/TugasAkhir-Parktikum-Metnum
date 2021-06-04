@@ -1,4 +1,4 @@
-# TugasAkhir-Parktikum-Metnum
+# TugasAkhir-Praktikum-Metnum
 Nama Anggota Kelompok 5: 
 Nama | Nim
 ------------ | -------------
