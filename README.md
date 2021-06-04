@@ -91,3 +91,12 @@ Pada umumnya, persamaan disebut sebagai persamaan diferensial jika di dalam pers
 4.3. Metode Heun
 			Metode Heun adalah salah satu metode numerik yang dapat digunakan untuk menyelesaikan berbagai persoalan matematika yang mempunyai masalah nilai awal. Masalah nilai awal merupakan masalah penyelesaian suatu persamaan diferensial dengan syarat awal yang telah diketahui.
 
+
+SARAN UNTUK PENGEMBANGAN
+
+Sebagai praktikan mata kuliah Metode Numerik yang telah melaksanakan kegiatan praktikum modul 1 hingga modul 5 dan untuk saat ini masuk ke dalam tugas akhir, terdapat beberapa saran yaitu:
+1. Kegiatan perkulaiahan kedepannya agar dapat berjalan secara offline, sehingga disaat praktikan bingung dapat lebih mudah dalam sesi tanya-jawab dan antara asisten dan
+praktikan dapat lebih terkoordinir. Namun, kondisi ini dapat menyesuaikan karena dapat dimaklumi
+2. Pengenalan fungsi logika phyton lebih ditekankan karena ini sebagai dasar saat masuk ke modul-modul praktikum, sehingga praktikan dapat lebih mengerti
+3. Script code tiap line untuk modul praktikum dapat lebih dijelaskan kegunaannya dan dijelaskan juga bentuk script code lain apabila ingin melakukan modifikasi pengerjaan
+4. Praktikum kedepannya dapat menggunakan variasi bahasa pemrograman lainnya seperti C++, Java, HTML, dan lainnya
