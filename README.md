@@ -11,10 +11,9 @@ Syifa Saidatul Hasanah | 26050119130101
 Rina Hazrina Nusratina | 26050119130098
 Nurul Maratus Sholihah | 26050118120035
 Fressan Patrick | 26050119130097
-	
-10. Muhammad Nur Alfajrin	26050119130096
-11. Rayen Hanjaya 		26050119130094
-12. Afisha Tiara Arbain		26050119130091
+Muhammad Nur Alfajrin | 26050119130096	
+Rayen Hanjaya | 26050119130094
+Afisha Tiara Arbain | 26050119130091
 
 # Panduan dan Penjelasan Terkait Program Penyelesaian Masalah Metode Numerik
 Di bawah ini adalah permasalahan metode numerik yang dapat diselesaikan menggunakan program tersebut, antara lain :
