@@ -1,5 +1,5 @@
 # TugasAkhir-Praktikum-Metnum
-Nama Anggota Kelompok 5: 
+### Nama Anggota Kelompok 5 : 
 Nama | Nim
 ------------ | -------------
 Muhammad Athala Haykal | 26050119130123
@@ -91,7 +91,7 @@ Metode Euler adalah salah satu dari metode satu langkah yang paling sederhana. D
 ### * Metode Heun
 Metode Heun adalah salah satu metode numerik yang dapat digunakan untuk menyelesaikan berbagai persoalan matematika yang mempunyai masalah nilai awal. Masalah nilai awal merupakan masalah penyelesaian suatu persamaan diferensial dengan syarat awal yang telah diketahui.
 
-## PLATFORM
+## _Platform_
 Jadi pada modul 2 hingga modul 5 untuk berbagai metode penyelesaian numerik menggunakan bahasa phyton. Sedangkan, library yang digunakan adalah sebagai berikut:
 1. sys
 2. numpy 
@@ -101,7 +101,7 @@ Jadi pada modul 2 hingga modul 5 untuk berbagai metode penyelesaian numerik meng
 6. pprint
 7. scipy.linalg
 
-## CARA PENGGUNAAN
+## Cara Penggunaan
 Tahapan pertama dengan memasukkan kode penggunaan modul, lalu masukkan kode penggunaan metode yang ada pada modul. 
 ### * Modul 2 (Akar-akar Persamaan )
 1. Metode Setengah Interval, dengan memasukkan nilai perkiraan untuk kondisi awal yaitu nilai pertama dan akhir yaitu nilai kedua pada kolom input
@@ -130,7 +130,7 @@ Matriks 2 = [24.097, 4.097, 0.4303, 0.5256]
 1. Metode Euler, dengan memasukkan nama, nim, kelas, nilai H (banyak langkah yang digunakan), x0 (nilai x awal atau perkiraan kondisi awal), xn (sebagai nilai x akhir), y0 (sebagai kondisi awal untuk nilai y awal)
 2. Metode Heun, dengan memasukkan nama, nim, kelas, nilai H (banyak langkah yang digunakan), x0 (nilai x awal atau perkiraan kondisi awal), xn (sebagai nilai x akhir), y0 (sebagai kondisi awal untuk nilai y awal)
 
-## SARAN UNTUK PENGEMBANGAN
+## Saran Untuk Pengembangan
 Sebagai praktikan mata kuliah Metode Numerik yang telah melaksanakan kegiatan praktikum modul 1 hingga modul 5 dan untuk saat ini masuk ke dalam tugas akhir, terdapat beberapa saran yaitu:
 1. Kegiatan perkuliahan kedepannya agar dapat berjalan secara offline, sehingga disaat praktikan bingung dapat lebih mudah dalam sesi tanya-jawab dan antara asisten dan
 praktikan dapat lebih terkoordinir. Namun, kondisi ini dapat menyesuaikan karena dapat dimaklumi
@@ -138,7 +138,7 @@ praktikan dapat lebih terkoordinir. Namun, kondisi ini dapat menyesuaikan karena
 3. Script code tiap line untuk modul praktikum dapat lebih dijelaskan kegunaannya dan dijelaskan juga bentuk script code lain apabila ingin melakukan modifikasi pengerjaan
 4. Praktikum kedepannya dapat menggunakan variasi bahasa pemrograman lainnya seperti C++, Java, HTML, dan lainnya
 
-## UCAPAN TERIMA KASIH
+## Ucapan Terima Kasih
 Demikian dari Tugas Akhir Metode Numerik dari kami. Kami dari kelompok 11 mengucapkan permintaan maaf apabila terdapat kesalahan di dalam tugas akhir ini. Kami juga mengucapkan terima kasih kepada :
 1. Seluruh Dosen Pengampu mata kuliah Metode Numerik
 2. Tim asisten praktikum metode numerik 2021 yang telah mendampingi selama berjalannya praktikum hingga tugas akhir
