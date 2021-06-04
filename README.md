@@ -121,10 +121,10 @@ Matriks 2 = [24.097, 4.097, 0.4303, 0.5256]
 4. Metode Jacobi, dengan memasukkan matriks 1 pada inputan matriks augmented dari SPL, dan memasukkan matriks 2 pada inputan nilai hasil dari SPL
 
 ### * Modul 4 (Integrasi Numerik)
-1. Metode Trapesium Satu Pias, dengan memasukkan persamaan 3 * (x**3) + 3 * (x**2) pada inputan persamaan untuk trapesium 1 pias, lalu 3 * x1**3 untuk inputan batas atas (x1) dan 3 * x2**2 untuk inputan batas bawah (x2)   
-2. Metode Trapesium Banyak Pias, dengan memasukkan persamaan  lambda x: 3 * (x**3) + 3 * (x**2) dan masukkan nilai jumlah pias sesuai perhitungan
-3. Metode Simpson 1/3, dengan memasukkan persamaan  lambda x: 3 * (x**3) + 3 * (x**2) dan masukkan batas bawah (x1) dengan angka 0, lalu batas atas masukkan dengan angka 10
-4. Metode Simpson 3/8, dengan memasukkan persamaan  lambda x: 3 * (x**3) + 3 * (x**2) dan masukkan batas bawah (x1) dengan angka 0, lalu batas atas masukkan dengan angka 10
+1. Metode Trapesium Satu Pias, dengan memasukkan persamaan **3 * (x^3) + 3 * (x^2)** pada inputan persamaan untuk trapesium 1 pias, lalu **3 * x1^3** untuk inputan batas atas (x1) dan **3 * x2^2** untuk inputan batas bawah (x2)   
+2. Metode Trapesium Banyak Pias, dengan memasukkan persamaan  lambda x: **3 * (x^3) + 3 * (x^2)** dan masukkan nilai jumlah pias sesuai perhitungan
+3. Metode Simpson 1/3, dengan memasukkan persamaan  lambda x: **3 * (x^3) + 3 * (x^2)** dan masukkan batas bawah (x1) dengan angka 0, lalu batas atas masukkan dengan angka 10
+4. Metode Simpson 3/8, dengan memasukkan persamaan  lambda x: **3 * (x^3) + 3 * (x^2)** dan masukkan batas bawah (x1) dengan angka 0, lalu batas atas masukkan dengan angka 10
 
 ### * Modul 5 (Persamaan Persamaan Differensial Biasa) 
 1. Metode Euler, dengan memasukkan nama, nim, kelas, nilai H (banyak langkah yang digunakan), x0 (nilai x awal atau perkiraan kondisi awal), xn (sebagai nilai x akhir), y0 (sebagai kondisi awal untuk nilai y awal)
