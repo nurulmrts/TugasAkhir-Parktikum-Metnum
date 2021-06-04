@@ -14,7 +14,7 @@ Nama Anggota Kelompok 5:
 12. Afisha Tiara Arbain		26050119130091
 
 # Panduan dan Penjelasan Terkait Program Penyelesaian Masalah Metode Numerik
-Di bawah ini adalah permasalahan metode numerik yang dapat diselesaikan menggunakan program tersebut, antara lain :
+Berikut ini adalah beberapa permasalahan dalam metode numerik yang dapat diselesaikan menggunakan program tersebut, antara lain :
 1. Akar-akar persamaan.
 2. Sistem persamaan linier dan matriks.
 3. Integrasi numerik
