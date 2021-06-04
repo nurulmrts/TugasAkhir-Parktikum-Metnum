@@ -24,8 +24,7 @@ Di bawah ini adalah permasalahan metode numerik yang dapat diselesaikan mengguna
 Selanjutnya, kita akan membahas secara sekilas terkait beberapa permasalahan metode numerik di atas. 
 
 1. Akar-Akar Persamaan.
-   Dalam perhitungan numerik, persamaan polinomial sangat sulit untuk diselesaikan secara eksplisit. Dalam hal ini, metode yang digunakan untuk menyelesaikan persamaan tersebut adalah metode iterasi (pengulangan). Dengan demikian, setiap persamaan akan menghasilkan nilai yang lebih teliti dari perkiraan sebelumnya.
-Di lain pihak, nilai tolerasi kesalahan dapat dipilih sesuai keinginan. Selain itu, solusi dari metode numerik juga selalu menghasilkan angka. Ada beberapa metode untuk menyelesaikan masalah akar-akar persamaan. Contohnya, yaitu:
+   Dalam perhitungan numerik, persamaan polinomial sangat sulit untuk diselesaikan secara eksplisit. Dalam hal ini, metode yang digunakan untuk menyelesaikan persamaan tersebut adalah metode iterasi (pengulangan). Dengan demikian, setiap persamaan akan menghasilkan nilai yang lebih teliti dari perkiraan sebelumnya.Di lain pihak, nilai tolerasi kesalahan dapat dipilih sesuai keinginan. Selain itu, solusi dari metode numerik juga selalu menghasilkan angka. Ada beberapa metode untuk menyelesaikan masalah akar-akar persamaan. Contohnya, yaitu:
 
 1.1. Metode Setengah Interval.
      Pada dasarnya, metode ini merupakan metode yang sederhana di antara metode-metode lainnya. Namun, metode ini tetap banyak digunakan karena hasilnya tidak memiliki banyak error. Artinya, metode ini selalu menemukan hasil walaupun caranya penyelesaiannya sederhana. Kelebihan dari metode ini adalah selalu menemukan solusi yang dicari (konvergen). Di lain pihak, kekurangannya adalah jika ada beberapa akar pada interval yang diberikan, hanya satu akar saja yang dapat ditemukan. Selain itu, proses iterasinya cukup lama.
@@ -68,16 +67,16 @@ Metode ini disebut sebagai metode tidak langsung (pengulangan/iteratif). Persama
    Integrasi numerik merupakan cara alternatif dalam mengintegrasikan suatu persamaan, terutama integrasi analitis. Integrasi analitis merupakan cara integrasi yang rumit, terutama pada persamaan yang kompleks dan sulit sehingga memakan waktu lama dalam penyelesaiannya. Dalam hal ini, integrasi numerik menjadi bagian penting dari masalah sains dan teknik. Hal itu didukung oleh masalah dalam bidang sains yang ditemukan dalam ungkapan integral matematis yang sulit diselesaikan secara analitis. Dengan demikian, kehadiran analisis numerik menjadi bagian penting dalam pendekatan analitis. Di samping itu, beberapa metode yang digunakan dalam penyelesaian integrasi numerik antara lain:
 
 3.1. Metode Trapesium Satu Pias
-			Metode trapesium merupakan metode pendekatan integral numerik dengan persamaan polinomial order satu. Dalam metode ini kurve lengkung dari fungsi f (x) digantikan oleh garis lurus. Seperti pada Gambar 1, luasan bidang di bawah fungsi f (x) antara nilai x = a dan nilai x = bdidekati oleh luas satu trapesium yang terbentuk oleh garis lurus yang menghubungkan f(a) dan f(b) dan sumbu-x serta antara x = a dan x = b. Pendekatan dilakukan dengan satu pias (trapesium).
+     Metode trapesium merupakan metode pendekatan integral numerik dengan persamaan polinomial order satu. Dalam metode ini kurve lengkung dari fungsi f (x) digantikan oleh garis lurus. Seperti pada Gambar 1, luasan bidang di bawah fungsi f (x) antara nilai x = a dan nilai x = bdidekati oleh luas satu trapesium yang terbentuk oleh garis lurus yang menghubungkan f(a) dan f(b) dan sumbu-x serta antara x = a dan x = b. Pendekatan dilakukan dengan satu pias (trapesium).
 
 3.2. Metode Trapesium Banyak Pias
-			Untuk mengurangi kesalahan yang terjadi maka kurva lengkung didekati oleh sejumlah garis lurus, sehingga terbentuk banyak pias. Luas bidang adalah jumlah dari luas beberapa pias tersebut. Semakin kecil pias yang digunakan, hasil yang didapat menjadi semakin teliti. Metode trapesium dapat digunakan untuk integral suatu fungsi yang diberikan dalam bentuk numerik pada interval diskret. Koreksi pada ujung-ujungnya dapat didekati dengan mengganti diferensial f '(a) dan f '(b) dengan diferensial beda hingga.
+     Untuk mengurangi kesalahan yang terjadi maka kurva lengkung didekati oleh sejumlah garis lurus, sehingga terbentuk banyak pias. Luas bidang adalah jumlah dari luas beberapa pias tersebut. Semakin kecil pias yang digunakan, hasil yang didapat menjadi semakin teliti. Metode trapesium dapat digunakan untuk integral suatu fungsi yang diberikan dalam bentuk numerik pada interval diskret. Koreksi pada ujung-ujungnya dapat didekati dengan mengganti diferensial f '(a) dan f '(b) dengan diferensial beda hingga.
 
 3.3. Metode Simpson 1/3
-			Di dalam aturan Simpson 1/3 digunakan polinomial order dua (persamaan parabola) yang melalui titik f(xi–1), f(xi) dan f(xi+1) untuk mendekati fungsi. Rumus Simpson dapat diturunkan berdasarkan deret Taylor.
+     Di dalam aturan Simpson 1/3 digunakan polinomial order dua (persamaan parabola) yang melalui titik f(xi–1), f(xi) dan f(xi+1) untuk mendekati fungsi. Rumus Simpson dapat diturunkan berdasarkan deret Taylor.
 
 3.4. Metode Simpson 3/8
-			Metode Simpson 3/8 diturunkan dengan menggunakan persamaan polinomial order tiga yang melalui empat titik
+     Metode Simpson 3/8 diturunkan dengan menggunakan persamaan polinomial order tiga yang melalui empat titik
 Metode Simpson 1/3 biasanya lebih disukai karena mencapai ketelitian order tiga dan hanya memerlukan tiga titik, dibandingkan metode Simpson 3/8 yang membutuhkan empat titik. Dalam pemakaian banyak pias, metode Simpson 1/3 hanya berlaku untuk jumlah pias genap. Apabila dikehendaki jumlah pias ganjil, maka dapat digunakan metode trapesium. Tetapi metode ini tidak begitu baik karena adanya kesalahan yang cukup besar. Untuk itu kedua metode dapat digabung, yaitu sejumlah genap pias digunakan metode Simpson 1/3 sedang 3 pias sisanya digunakan metodeSimpson 3/8
 
 4. Persamaan Diferensial Biasa
